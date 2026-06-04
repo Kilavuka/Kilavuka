@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ingavi Kilavuka</h1>
-<h3 align="center">Recently graduated student of data science and analytics.I am looking for new opportunities to continue learning and grow my computer based skills</h3>
+<h3 align="center">Data science and analytics enthusiast. I am looking for new opportunities to continue learning and grow my computer based skills</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kilavuka&label=Profile%20views&color=0e75b6&style=flat" alt="kilavuka" /> </p>
 
