@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ingavi Kilavuka</h1>
-<h3 align="center"> I hope you find something interesting in one of my little projects. 
-Data doesn't lie, data doesn't cheat & data won't leave you. Data is beautiful.
+<h3 align="center"> Data doesn't lie, data doesn't cheat & data won't leave you. Data is beautiful. I hope you find something interesting in one of my little projects. 
 </h3>
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Kilavuka)
