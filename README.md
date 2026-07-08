@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ingavi Kilavuka</h1>
-<h3 align="center">Data science and analytics enthusiast. Data is Beautiful </h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kilavuka" alt="kilavuka" /></a> </p>
+<h3 align="center">Data doesn't lie, doesn't cheat and data will never leave you. Data is Beautiful </h3>
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Kilavuka)
 
-- 📫 How to reach me **Kilavukaingavi@gmail.com**
+- 📫 Email me **Kilavukaingavi@gmail.com**
 
 - 📄 Know about my experiences from **[My CV](https://docs.google.com/document/d/1uJOdH4qenUjg1qmf_vXB8WztFC_USgelwoAIW64u_8g/edit?usp=sharing)**.
 
