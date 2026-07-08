@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ingavi Kilavuka</h1>
-<h3 align="center">Data science and analytics enthusiast. I am looking for new opportunities to continue learning and grow my computer based skills</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kilavuka&label=Profile%20views&color=0e75b6&style=flat" alt="kilavuka" /> </p>
+<h3 align="center">Data science and analytics enthusiast. Data is Beautiful </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kilavuka" alt="kilavuka" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kilavuka](https://github.com/Kilavuka)
+- 👨‍💻 All of my projects are available [here](https://github.com/Kilavuka)
 
 - 📫 How to reach me **Kilavukaingavi@gmail.com**
 
-- 📄 Know about my experiences - 📄 Learn more about my **[My CV](https://docs.google.com/document/d/1uJOdH4qenUjg1qmf_vXB8WztFC_USgelwoAIW64u_8g/edit?usp=sharing)**.
+- 📄 Know about my experiences from **[My CV](https://docs.google.com/document/d/1uJOdH4qenUjg1qmf_vXB8WztFC_USgelwoAIW64u_8g/edit?usp=sharing)**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
